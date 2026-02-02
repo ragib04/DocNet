@@ -9,6 +9,7 @@ import MyAppoinments from './pages/MyAppoinments'
 import Appoinment from './pages/Appoinment'
 import Navbar from './components/Navbar'
 import Login from './pages/Login'
+import Footer from './components/footer'
 
 
 
@@ -25,8 +26,10 @@ const App = () => {
         <Route path = '/contact' element = {<Contact />} />
         <Route path = '/my-profile' element = {<MyProfile />} />
         <Route path = '/my-appoinments' element = {<MyAppoinments />} />
-        <Route path = '/appoinment/:docId' element = {<Appoinment />} />
+        <Route path = '/appointment/:docId' element = {<Appoinment />} />
       </Routes>
+      {/* this footer is outside from routes bcz footer will be visible in all the pages */}
+      <Footer/>
     </div>
   )
 }
