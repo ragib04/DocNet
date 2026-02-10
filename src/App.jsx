@@ -13,6 +13,7 @@ import Footer from './components/footer'
 
 
 
+
 const App = () => {
   return (
     <div className='mx-4 sm:mx-[10%]'>
