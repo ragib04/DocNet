@@ -14,10 +14,8 @@
 
 ## 🛠️ Tech Stack 
 - **Frontend:** React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Mongoose
 - **Styling:** tailwindcss / Material UI
-- **Tools & Deployment:** Render , Postman (API testing)
+- **Tools & Deployment:** Render, Vercel
 
 ---
 
@@ -100,7 +98,3 @@
 
 - Hands-on experience with deployment (Render) and API testing (Postman)
 
-  ---
-  
-
-**Portfolio :** https://souravmahata.vercel.app/
