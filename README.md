@@ -5,7 +5,7 @@
 **DocNet** is a responsive doctor appointment platform frontend designed to simplify patient-doctor interactions and appointment scheduling workflows. The project focuses on delivering a clean, modern, and user-friendly healthcare interface for patients, doctors, and administrators.
 
 
-[![Live Demo]([https://img.shields.io/badge/Live%20Demo-DocNest-blue)](https://docnest-z4gx.onrender.c/](https://doc-net-eta.vercel.app/))
+
 
 
 
